@@ -136,3 +136,36 @@ ul{
 .middle{
     width: 820px;
 }
+.call-to-action{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.action{
+    background-color: #3882f6;
+    color: white;
+    width: 900px;
+    padding: 40px;
+    border: 5px solid #3882f6;
+    border-radius:8px;
+    display: flex;
+    gap: 160px;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 60px;
+}
+.action-button{
+    border: 2px solid white;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    text-align: center;
+    padding: 6px 28px;
+
+}
+.actiontitle{
+    font-weight: 900;
+    font-size: 20px;
+}
+
