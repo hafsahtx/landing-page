@@ -114,3 +114,25 @@ ul{
     margin-bottom: 100px;
    
 }
+.quotesection{
+    background-color: #E5E7EB;
+    padding: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.signed{
+    text-align: end;
+    font-size: 20px;
+    font-weight: 900;
+}
+.middle{
+    width: 820px;
+}
