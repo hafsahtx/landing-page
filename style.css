@@ -87,6 +87,7 @@ ul{
     align-items: center;
     gap: 40px;
     padding-bottom: 60px;
+    color: #485567;
 }
 .title{
     padding-top: 40px;
@@ -167,5 +168,11 @@ ul{
 .actiontitle{
     font-weight: 900;
     font-size: 20px;
+}
+.footer{
+    text-align: center;
+    padding: 40px;
+    background-color: #1F2937;
+    color: white;
 }
 
